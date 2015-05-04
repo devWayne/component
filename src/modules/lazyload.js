@@ -1,4 +1,4 @@
-var $ = require('zepto');
+var $ = require('./zepto');
 
 
 var lazyAttr = 'lazy-src';

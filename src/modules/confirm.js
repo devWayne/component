@@ -1,7 +1,7 @@
 var $ = require("./zepto");
 var OverLay =  require("./overlay");
 var OL;
-
+require("../less/confirm.less");
 
 var DEFAULT = {
 	"dbtn":"确认",

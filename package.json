@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/devWayne/mBase.js/issues"
   },
-  "homepage": "https://github.com/devWayne/mBase.js"
+  "homepage": "https://github.com/devWayne/mBase.js",
+  "devDependencies": {
+    "css-loader": "^0.12.0",
+    "less": "^2.5.0",
+    "less-loader": "^2.2.0",
+    "style-loader": "^0.12.1"
+  }
 }
